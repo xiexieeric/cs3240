@@ -1,0 +1,12 @@
+[
+    "/Users/eric/PycharmProjects/CS3240/lab3",
+    {
+        "lab3_part2.OLD.py": "4f97af4246e7544849333c6894c23321",
+        "lab3_part1.py": "a3abe04a65b806f46b858c11190a7cc5",
+        "file_info.txt": "9976d64dcb80d3b75ec73bd248cb84a4",
+        "lab3_part3.OLD.py": "3e33cd28f3e3229d50cb0584f7121b34",
+        ".DS_Store": "7faeac862480a48d616972d74880c1c1",
+        "lab3_part3 copy.py": "39cd3a4cddeaba1b2e5a42093a1eebfc",
+        "lab3_part2 copy.py": "165b8e63f22c112da745ac5da9ed75ce"
+    }
+]
